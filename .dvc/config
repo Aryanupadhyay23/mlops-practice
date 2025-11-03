@@ -1,0 +1,4 @@
+[core]
+    remote = myremote2
+['remote "myremote2"']
+    url = C:\Users\dell\AppData\Local\Temp\mlops-practice
