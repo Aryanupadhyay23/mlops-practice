@@ -4,4 +4,4 @@ stages:
     deps:
     - src/data/data_ingestion.py
     outs:
-    - data/raw/iris.csv
+    - data/raw/titanic.csv
